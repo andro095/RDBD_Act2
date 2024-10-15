@@ -1,3 +1,8 @@
+-- Group Members
+-- 1. André Rodríguez
+-- 2. Diego Bolaños
+-- 3. Dev Patel
+
 -- DROP SCHEMA dbo;
 
 CREATE SCHEMA dbo;

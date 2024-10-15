@@ -1,3 +1,8 @@
+-- Group Members
+-- 1. André Rodríguez
+-- 2. Diego Bolaños
+-- 3. Dev Patel
+
 CREATE DATABASE Amalgamated;
 GO
 
@@ -210,14 +215,14 @@ VALUES
 insert into Sales.Customer_Details(customerid, customeraddress, customercity, customerpostalcode, customercountry, customerphoneno, Customer_DetailsID)
 values
 (1, N'506-201 lester', N'WA', N'N2l', N'CA', N'(226) 565', 1),
-(2, N'456-84 King St', N'WA', N'N2l',N'CA', N'(226) 784', 2),
-(3, N'52-489 Albert St', N'WA', N'N6g',N'CA', N'(226) 852', 3),
-(4, N'7307 Prasmount Pl', N'BC', N'V0M',N'CA', N'604-796', 4),
-(5, N'1145 Dakota St 209', N'MB', N'N6g',N'CA', N'(204) 949', 5),
-(6, N'68 Baycrest Pl SW 5', N'AB', N'T2V',N'CA', N'(403) 244', 6),
-(7, N'PO Box 206', N'AB ', N'T0C',N'CA', N'780-696', 7),
-(8, N'513A Deer St', N'AB', N'T1L',N'CA', N'403-762', 8),
-(9, N'2-119 4 Ave W', N'AB', N'T0K',N'CA', N'403-545', 9),
+(2, N'456-84 King St', N'WA', N'N2l', N'CA', N'(226) 784', 2),
+(3, N'52-489 Albert St', N'WA', N'N6g', N'CA', N'(226) 852', 3),
+(4, N'7307 Prasmount Pl', N'BC', N'V0M', N'CA', N'604-796', 4),
+(5, N'1145 Dakota St 209', N'MB', N'N6g', N'CA', N'(204) 949', 5),
+(6, N'68 Baycrest Pl SW 5', N'AB', N'T2V', N'CA', N'(403) 244', 6),
+(7, N'PO Box 206', N'AB ', N'T0C', N'CA', N'780-696', 7),
+(8, N'513A Deer St', N'AB', N'T1L', N'CA', N'403-762', 8),
+(9, N'2-119 4 Ave W', N'AB', N'T0K', N'CA', N'403-545', 9),
 (10, N'42 Rue Bourbonnais', N'QC', N'J0P',N'CA', N'450-308', 10);
 
 
